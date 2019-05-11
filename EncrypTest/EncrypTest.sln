@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EncrypTest", "EncrypTest\EncrypTest.vcxproj", "{41867442-9648-49FB-A01C-31F11FB9B477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Debug|x64.ActiveCfg = Debug|x64
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Debug|x64.Build.0 = Debug|x64
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Debug|x86.ActiveCfg = Debug|Win32
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Debug|x86.Build.0 = Debug|Win32
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Release|x64.ActiveCfg = Release|x64
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Release|x64.Build.0 = Release|x64
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Release|x86.ActiveCfg = Release|Win32
+		{41867442-9648-49FB-A01C-31F11FB9B477}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318B25B5-488D-4881-AB64-CEDD9670D263}
+	EndGlobalSection
+EndGlobal
